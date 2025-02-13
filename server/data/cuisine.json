@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Chawanmushi",
+    "description": "Chawanmushi is an egg custard dish in Japanese cuisine. Unlike many other custards, it is usually eaten as a dish in a meal, as chawanmushi contains savory rather than sweet ingredients.",
+    "price": 15000,
+    "imgUrl":
+      "https://www.thespruceeats.com/thmb/t4lCYagGImoWlxPtNTGO9LyzFcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-chawanmushi-2031018-b28c243bca854d51a259c0ab4ce6e64f.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Tamagoyaki",
+    "description": "Tamagoyaki (卵焼き or 玉子焼き) is a sweetened Japanese omelette that resembles mini bars of golden pillows. With a slightly sweet taste and custardy texture, tamagoyaki is well-loved among Japanese children and adults.",
+    "price": 16000,
+    "imgUrl":
+      "https://www.justonecookbook.com/wp-content/uploads/2019/08/tamagoyaki-1058.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Salmon Sashimi",
+    "description": "Salmon Sashimi is a Japanese delicacy consisting of fresh raw salmon sliced into thin pieces and often eaten with soy sauce.",
+    "price": 20000,
+    "imgUrl":
+      "https://cdn3.didevelop.com/public/cdn/533_025114abe67072171a1918f26c34fdd9.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Tuna Sashimi",
+    "description": "Tuna Sashimi is a Japanese delicacy consisting of fresh raw suna sliced into thin pieces and often eaten with soy sauce.",
+    "price": 23000,
+    "imgUrl":
+      "https://ocwildseafood.com/cdn/shop/articles/Ahi_Tuna_Sashimi_Seafood_Recipe_1024x.jpg?v=1591853624",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Takoyaki",
+    "description": "Takoyaki is a ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus, tempura scraps, pickled ginger, and green onion.",
+    "price": 20000,
+    "imgUrl":
+      "https://asset.kompas.com/crops/it_rFrDqX-g3HsNFV8jL_tIAOwY=/0x0:1000x667/750x500/data/photo/2021/09/08/613812d19a190.jpeg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Mochi",
+    "description": "Mochi is a Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch. The steamed rice is pounded into paste and molded into the desired shape.",
+    "price": 10000,
+    "imgUrl":
+      "https://www.allrecipes.com/thmb/3fS_6GU8i0924j_0ZZ9wtE3h7xk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-2x1-247-9ef1f27e8bb045cda3c73ed701872eb9.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  },
+  {
+    "name": "Salmon Maki",
+    "description": "Salmon Maki Rolls are the most recognisable form of Sushi. They're the classic rolls of sushi rice stuffed with raw fresh salmon and spring onion and wrapped in nori (seaweed). ",
+    "price": 25000,
+    "imgUrl":
+      "https://www.craftycookbook.com/wp-content/uploads/2024/04/salmon-maki-1200-500x500.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Salmon Grilled Head",
+    "description": "Salt grilled salmon head with special sauce.",
+    "price": 30000,
+    "imgUrl":
+      "https://www.fairprice.com.sg/wp-content/uploads/2021/04/Salt-Grilled-Salmon-Head-Collar-970x526-1-970x526.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Dango",
+    "description": "Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Dango is usually finished round shaped, three to five dango are often served on a skewer.",
+    "price": 20000,
+    "imgUrl":
+      "https://flouredframe.com/wp-content/uploads/2020/09/mitarashi-dango-ft-image-1200x1200-1.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  },
+  {
+    "name": "Chawanmushi",
+    "description": "Chawanmushi is an egg custard dish in Japanese cuisine. Unlike many other custards, it is usually eaten as a dish in a meal, as chawanmushi contains savory rather than sweet ingredients.",
+    "price": 15000,
+    "imgUrl":
+      "https://www.thespruceeats.com/thmb/t4lCYagGImoWlxPtNTGO9LyzFcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-chawanmushi-2031018-b28c243bca854d51a259c0ab4ce6e64f.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Tamagoyaki",
+    "description": "Tamagoyaki (卵焼き or 玉子焼き) is a sweetened Japanese omelette that resembles mini bars of golden pillows. With a slightly sweet taste and custardy texture, tamagoyaki is well-loved among Japanese children and adults.",
+    "price": 16000,
+    "imgUrl":
+      "https://www.justonecookbook.com/wp-content/uploads/2019/08/tamagoyaki-1058.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Salmon Sashimi",
+    "description": "Salmon Sashimi is a Japanese delicacy consisting of fresh raw salmon sliced into thin pieces and often eaten with soy sauce.",
+    "price": 20000,
+    "imgUrl":
+      "https://cdn3.didevelop.com/public/cdn/533_025114abe67072171a1918f26c34fdd9.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Tuna Sashimi",
+    "description": "Tuna Sashimi is a Japanese delicacy consisting of fresh raw suna sliced into thin pieces and often eaten with soy sauce.",
+    "price": 23000,
+    "imgUrl":
+      "https://ocwildseafood.com/cdn/shop/articles/Ahi_Tuna_Sashimi_Seafood_Recipe_1024x.jpg?v=1591853624",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Takoyaki",
+    "description": "Takoyaki is a ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus, tempura scraps, pickled ginger, and green onion.",
+    "price": 20000,
+    "imgUrl":
+      "https://asset.kompas.com/crops/it_rFrDqX-g3HsNFV8jL_tIAOwY=/0x0:1000x667/750x500/data/photo/2021/09/08/613812d19a190.jpeg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Mochi",
+    "description": "Mochi is a Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch. The steamed rice is pounded into paste and molded into the desired shape.",
+    "price": 10000,
+    "imgUrl":
+      "https://www.allrecipes.com/thmb/3fS_6GU8i0924j_0ZZ9wtE3h7xk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-2x1-247-9ef1f27e8bb045cda3c73ed701872eb9.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  },
+  {
+    "name": "Salmon Maki",
+    "description": "Salmon Maki Rolls are the most recognisable form of Sushi. They're the classic rolls of sushi rice stuffed with raw fresh salmon and spring onion and wrapped in nori (seaweed). ",
+    "price": 25000,
+    "imgUrl":
+      "https://www.craftycookbook.com/wp-content/uploads/2024/04/salmon-maki-1200-500x500.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Salmon Grilled Head",
+    "description": "Salt grilled salmon head with special sauce.",
+    "price": 30000,
+    "imgUrl":
+      "https://www.fairprice.com.sg/wp-content/uploads/2021/04/Salt-Grilled-Salmon-Head-Collar-970x526-1-970x526.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Dango",
+    "description": "Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Dango is usually finished round shaped, three to five dango are often served on a skewer.",
+    "price": 20000,
+    "imgUrl":
+      "https://flouredframe.com/wp-content/uploads/2020/09/mitarashi-dango-ft-image-1200x1200-1.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  },
+  {
+    "name": "Chawanmushi",
+    "description": "Chawanmushi is an egg custard dish in Japanese cuisine. Unlike many other custards, it is usually eaten as a dish in a meal, as chawanmushi contains savory rather than sweet ingredients.",
+    "price": 15000,
+    "imgUrl":
+      "https://www.thespruceeats.com/thmb/t4lCYagGImoWlxPtNTGO9LyzFcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-chawanmushi-2031018-b28c243bca854d51a259c0ab4ce6e64f.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Tamagoyaki",
+    "description": "Tamagoyaki (卵焼き or 玉子焼き) is a sweetened Japanese omelette that resembles mini bars of golden pillows. With a slightly sweet taste and custardy texture, tamagoyaki is well-loved among Japanese children and adults.",
+    "price": 16000,
+    "imgUrl":
+      "https://www.justonecookbook.com/wp-content/uploads/2019/08/tamagoyaki-1058.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Salmon Sashimi",
+    "description": "Salmon Sashimi is a Japanese delicacy consisting of fresh raw salmon sliced into thin pieces and often eaten with soy sauce.",
+    "price": 20000,
+    "imgUrl":
+      "https://cdn3.didevelop.com/public/cdn/533_025114abe67072171a1918f26c34fdd9.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Tuna Sashimi",
+    "description": "Tuna Sashimi is a Japanese delicacy consisting of fresh raw suna sliced into thin pieces and often eaten with soy sauce.",
+    "price": 23000,
+    "imgUrl":
+      "https://ocwildseafood.com/cdn/shop/articles/Ahi_Tuna_Sashimi_Seafood_Recipe_1024x.jpg?v=1591853624",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Takoyaki",
+    "description": "Takoyaki is a ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan. It is typically filled with minced or diced octopus, tempura scraps, pickled ginger, and green onion.",
+    "price": 20000,
+    "imgUrl":
+      "https://asset.kompas.com/crops/it_rFrDqX-g3HsNFV8jL_tIAOwY=/0x0:1000x667/750x500/data/photo/2021/09/08/613812d19a190.jpeg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Mochi",
+    "description": "Mochi is a Japanese rice cake made of mochigome, a short-grain japonica glutinous rice, and sometimes other ingredients such as water, sugar, and cornstarch. The steamed rice is pounded into paste and molded into the desired shape.",
+    "price": 10000,
+    "imgUrl":
+      "https://www.allrecipes.com/thmb/3fS_6GU8i0924j_0ZZ9wtE3h7xk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-2x1-247-9ef1f27e8bb045cda3c73ed701872eb9.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  },
+  {
+    "name": "Salmon Maki",
+    "description": "Salmon Maki Rolls are the most recognisable form of Sushi. They're the classic rolls of sushi rice stuffed with raw fresh salmon and spring onion and wrapped in nori (seaweed). ",
+    "price": 25000,
+    "imgUrl":
+      "https://www.craftycookbook.com/wp-content/uploads/2024/04/salmon-maki-1200-500x500.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Salmon Grilled Head",
+    "description": "Salt grilled salmon head with special sauce.",
+    "price": 30000,
+    "imgUrl":
+      "https://www.fairprice.com.sg/wp-content/uploads/2021/04/Salt-Grilled-Salmon-Head-Collar-970x526-1-970x526.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Dango",
+    "description": "Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Dango is usually finished round shaped, three to five dango are often served on a skewer.",
+    "price": 20000,
+    "imgUrl":
+      "https://flouredframe.com/wp-content/uploads/2020/09/mitarashi-dango-ft-image-1200x1200-1.jpg",
+    "categoryId": 6,
+    "authorId": 1
+  }
+]
